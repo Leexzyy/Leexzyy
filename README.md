@@ -1,4 +1,4 @@
-### Hi there 👋
+### hello 我是一名来自长沙的斜杠开发者 因为我做过Android 现在转行做测试开发工程师了  😄
 
 <!--
 **Leexzyy/Leexzyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
